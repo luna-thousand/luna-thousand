@@ -20,6 +20,4 @@
 <br>
 </div>
 <br>
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beruhren-ely&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beruhren-ely&show_icons=true&theme=radical)
