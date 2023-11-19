@@ -9,9 +9,9 @@
  <h1>:woman_technologist: About Me :</h1>
  <br>
 <div>
-  I'm a Backend Developer from Thailand.
-  - I was born on January 4, 2008.
-  - I live in Mukdahan which is northern Thailand but I don't speak my dialect.
+  I'm a Backend Developer from Thailand. <br>
+  * I was born on January 4, 2008. <br>
+  * I live in Mukdahan which is northern Thailand but I don't speak my dialect.
 <br>
  <h1>:hammer_and_wrench: Language & Tools :</h1>
 </div>
