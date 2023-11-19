@@ -32,3 +32,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=beruhren-ely&show_icons=true" />
 </picture>
+<br>
+<br>
+<hr>
