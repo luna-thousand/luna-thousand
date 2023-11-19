@@ -6,9 +6,11 @@
   🥐🥨 You can call me <a>Pee / Fern</a>
 </p>
 <br>
-I'm a Backend Developer from Thailand.
+<div align="center">
+  I'm a Backend Developer from Thailand.
 <br>
-### :hammer_and_wrench: Language & Tools :
+ :hammer_and_wrench: Language & Tools :
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=stackoverflow,github,linux,docker,js,react,bootstrap,nodejs,express,mysql,mongodb" />
