@@ -10,8 +10,9 @@
  <br>
 <div>
   I'm a Backend Developer from Thailand.
+  - I was born on January 4, 2008.
+  - I live in Mukdahan which is northern Thailand but I don't speak my dialect.
 <br>
-  <br>
  <h1>:hammer_and_wrench: Language & Tools :</h1>
 </div>
 <br>
