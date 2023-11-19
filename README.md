@@ -9,7 +9,7 @@
 <div align="center">
   I'm a Backend Developer from Thailand.
 <br>
- :hammer_and_wrench: Language & Tools :
+ <h1>:hammer_and_wrench: Language & Tools :</h1>
 </div>
 <br>
 <p align="center">
