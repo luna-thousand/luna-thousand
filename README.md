@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/PDJrqI6ktv8AAAAi/anime-girl.gif" width="500"/>
+  <img src="https://media.tenor.com/PDJrqI6ktv8AAAAi/anime-girl.gif" width="250"/>
 </div>
 
 <p align="center">
