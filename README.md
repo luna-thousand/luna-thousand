@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://static.wikia.nocookie.net/typemoon/images/2/20/SaberAlterVSHeraclesHF2.gif/revision/latest?cb=20201031105516" width="100"/>
+  <img src="https://static.wikia.nocookie.net/typemoon/images/2/20/SaberAlterVSHeraclesHF2.gif/revision/latest?cb=20201031105516" width="100"/>
 </div>
 
 <p align="center">
