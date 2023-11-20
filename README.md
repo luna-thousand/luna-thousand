@@ -16,7 +16,7 @@
 <div>
   -- 💻 I'm a Backend Developer from Thailand. <br>
   -- 👶 I was born on January 4, 2008. <br>
-  -- 😕 I live in Mukdahan which is northern Thailand but I don't speak my dialect.
+  -- 😕 I live in Mukdahan which is Northeast Thailand but I don't speak my dialect.
 <br>
 </div>
 <br>
