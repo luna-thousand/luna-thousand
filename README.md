@@ -8,7 +8,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stackoverflow,github,linux,docker,js,react,bootstrap,nodejs,express,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow,github,linux,docker,js,ts,react,bootstrap,nodejs,express,mysql,mongodb" />
   </a>
 </p>
 <h1>:woman_technologist: About Me :</h1>
