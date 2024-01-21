@@ -15,7 +15,6 @@
  <br>
 <div>
   -- 💻 I'm a Web Developer. <br>
-  -- 👶 I was born on January 4, 2008. <br>
   -- 😕 I live in Mukdahan which is Northeast Thailand but I don't speak my dialect.
 <br>
 </div>
