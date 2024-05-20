@@ -14,8 +14,7 @@
 <h1>:woman_technologist: About Me :</h1>
  <br>
 <div>
-  -- 💻 I'm a Web Developer (Backend). <br>
-  -- 😕 I live in Mukdahan which is Northeast Thailand but I don't speak my dialect.
+  BABOONS 💩🙈🙉
 <br>
 </div>
 <br>
