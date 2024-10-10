@@ -8,7 +8,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs,mongodb,prisma,sequelize" />
+    <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs,mongodb,prisma" />
   </a>
 </p>
 <h1>:woman_technologist: About Me :</h1>
